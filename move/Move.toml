@@ -4,4 +4,4 @@ version = "0.0.1"
 edition = "2024.beta"
 
 [addresses]
-multisig = "0x0"
+multisig = "0x8438f6d7b1efa6eb1fb7aa2cfa82667de6eaa8c6c1934a11e25b7aa0392417ab"
